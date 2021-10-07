@@ -31,15 +31,23 @@ print(floor(3.56))
 #kör kerülete (2*r*pi) területe (r^2*pi)
 #kocka V=a^3 A=6*a^2
 #derékszögü háromszög 2 befogo bekérése a^2+b^2
-a=float(input("irjon számot"))
-b=float(input("irjon még egy számot"))
-print("kerülete" a*4)
-print("területe" a*a)
-print("kerülete" pow(a, 2)+pow(b, 2))
-print("területe" a*b)
-r=float(input("irjon még számot"))
+a=float(input("irjon számot "))
+b=float(input("irjon még egy számot "))
+print("kerülete", a*4)
+print("területe", a*a)
+print("kerülete", pow(a, 2)+pow(b, 2))
+print("területe", a*b)
+r=float(input("irjon még számot "))
 print(2*r*pi)
-print("kerülete"pow(r, 2)*pi)
-print("területe"pow(a, 3))
-print("kerülete"pow(a, 2)*6)
-print("területe"pow(a, 2)+pow(b, 2))
+print("kerülete",pow(r, 2)*pi)
+print("területe",pow(a, 3))
+print("kerülete",pow(a, 2)*6)
+print("területe",pow(a, 2)+pow(b, 2))
+"""
+szekvencia egymás után
+szelekció elágazások 
+-egyirányú ha igaz akkor ut
+-kétirányú ha feltétel igaz akkor ut1 különben ut2
+-többirányú egymásba ágyazott elágazások switch case szerkezet
+iteráció ciklus
+"""
