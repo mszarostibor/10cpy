@@ -1,0 +1,47 @@
+3 iterácio - ciklus
+ előirt lépéssszámu / számolos / növekméges
+ ciklus i=1-től 20-ig
+	utasitások
+ ciklus vége
+ciklus valtozo és kezdőérték adása
+léteö utsitás
+irjunk algritmust ami ki írja az elsö öt szám négyzetét
+ciklus i = 1 5
+ki i2
+ciklus vége
+
+teszelö
+
+ha i páros akkor ki i2 elégazás vége
+változo a egész
+be a
+ciklus amig a <>0
+be a 
+ciklus vége
+
+cv egész
+cv=1
+ciklus amig cv<=5
+ki cv2
+cv=cv+1
+ciklus véges
+változot elöte hozd létre
+
+hátul tesztelö
+
+ciklus
+utaslitás
+amig feltétels igaz
+
+változo a egyész
+ciklus
+be a 
+amig a <>0
+mindig lefut egyszer
+
+változo cv egész
+cv=1
+ciklus
+ki cv2
+cv=cv+1
+amig cv<=5
