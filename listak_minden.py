@@ -47,7 +47,7 @@ def sajat():
     """a feladat az hogy írja ki a megadot mondatnak a hosszúságát és számolja meg az 'a' karaktert"""
     mondat='Nézd milyen csendes az olasz család a szomszéd asztalnál'
     print('a mondat hossza',len(mondat))
-    print('a mondatban ennyi a van',mondat.count('a'))
+    print('a mondatban', mondat.count('a') ,'a van')
 #feladat22()
 #feladat23()
 #feladat24()
