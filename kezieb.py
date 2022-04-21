@@ -15,5 +15,6 @@ beolvas=f.readlines()
 f.close()
 jatekosok=[]
 for item in beolvas:
-    jatekosok.append(Jatekos[i])
+    jatekosok.append(jatekos[i])
 print(jatekosok[0].nev)
+#2,3,4,8,11,14 feladat
